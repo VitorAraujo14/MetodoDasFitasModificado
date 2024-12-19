@@ -2,7 +2,7 @@
 """
 Created on Sun Nov 17 18:01:24 2024
 
-@author: vitin & Thominhas
+@author: Vítor Araújo e Thomas Neder
 """
 import numpy as np
 import matplotlib.pyplot as plt
