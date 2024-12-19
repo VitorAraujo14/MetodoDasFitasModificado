@@ -1,1 +1,1 @@
-# MetodoDasFitasModificado
+O presente repositório tem como intuito disponibilizar o código elaborado durante o trabalho realizado por Vítor Araújo Moreira e Thomas Siqueira Neder sobre a orientação do Professor Dr. Tiago dos Santos. Durante a disciplina de Concepção, Projeto, Idealização e Operação 2 da Universidade Federal de Santa Maria no curso de Engenharia Aeroespacial
